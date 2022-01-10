@@ -9,23 +9,23 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Danny Doan</title>
-        <meta name="author" content="Danny Doan" />
+        <meta name="author" content="Danny Doancdcdgit addgi-" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <body className="bg-black flex flex-col min-h-screen">
         <main className="flex-grow">
-          <div className="flex justify-end m-4 md:m-8 lg:m-16"> //nav-bar start
+          <div className="flex justify-end m-4 md:m-8 lg:m-16">
             <ul className="space-x-5 md:space-x-10 lg-space-x-20">
               <li className="inline"><a href="#" className="text-white text-xl md:text-2xl lg:text-4xl">/home</a></li>
               <li className="inline"><a href="#" className="text-white text-xl md:text-2xl lg:text-4xl">/projects</a></li>
               <li className="inline"><a href="#" className="text-white text-xl md:text-2xl lg:text-4xl">/interests</a></li>
             </ul>
-          </div> //nav-bar end
+          </div>
 
           <div className="flex flex-col ">
             <h1 className="text-3xl md:text-5xl lg:text-6xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
-              hey, i'm danny.    
+              hey, i&apos;m danny.    
             </h1>
             <p4 className="text-xl pt-4 md:pt-8 lg-12 md:text-2xl lg:text-4xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
               20y/o california based developer studying computer science @uci.
@@ -41,7 +41,7 @@ export default function Home() {
 
           <div className="pt-20 md:pt-24 lg:pt-28">
             <p1 className="text-l pt-4 md:pt-8 lg-12 md:text-2xl lg:text-4xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
-              also, here's a picture of my cat &lt;3</p1>
+              also, here&apos;s a picture of my cat &lt;3</p1>
             <img className="pt-4 h-72 pl-2 md:pl-10 lg:pl-30 xl:pl-40" src="/rue_for_site.jpg"/>
           </div>
         </main>
