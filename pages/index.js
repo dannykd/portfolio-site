@@ -24,7 +24,7 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col ">
-            <h1 className="text-3xl md:text-5xl lg:text-6xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
+            <h1 className="pt-10 text-3xl md:text-5xl lg:text-6xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
               hey, i&apos;m danny.    
             </h1>
             <p4 className="text-xl pt-4 md:pt-8 lg-12 md:text-2xl lg:text-4xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
