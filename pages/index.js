@@ -25,10 +25,10 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col ">
-            <h1 className="pt-10 text-3xl md:text-5xl lg:text-6xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
+            <h1 className="pt-10 text-2xl md:text-4xl lg:text-5xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
               Hey, i&apos;m Danny.    
             </h1>
-            <p4 className="ml-6 text-gray-400 text-xl pt-4 md:pt-8 lg-12 md:text-2xl lg:text-4xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
+            <p4 className="ml-6 text-gray-400 text-xl pt-2 md:pt-4 lg-6 md:text-2xl lg:text-4xl text-white pl-2 md:pl-10 lg:pl-30 xl:pl-40">
               20 year-old developer based in California. Currently studying Computer Science @UCI.
             </p4>
 

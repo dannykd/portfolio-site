@@ -21,7 +21,7 @@ function Projects() {
           </div>
           <div clasName="flex flex-col">
             <div className="flex mt-8 md:mt-16">
-                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
+                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12 pt-10">
                             <div className="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Study Session Manager</div>
                                 <p className="text-gray-400 text-l md:text-2xl pb-2">
                                  A full-stack web application that allows users to start/stop timed study sessions. Users can create an account and log their study sessions.
