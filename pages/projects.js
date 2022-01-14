@@ -21,39 +21,39 @@ function Projects() {
           </div>
           <div clasName="flex flex-col">
             <div className="flex mt-8 md:mt-16">
-                        <div class="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
-                            <div class="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Study Session Manager</div>
-                                <p class="text-gray-400 text-l md:text-2xl pb-2">
+                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
+                            <div className="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Study Session Manager</div>
+                                <p className="text-gray-400 text-l md:text-2xl pb-2">
                                  A full-stack web application that allows users to start/stop timed study sessions. Users can create an account and log their study sessions.
                                 </p>
                             
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#python</span>
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">django</span>
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#html/css</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#python</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#django</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#html/css</span>
                             </div>
                         </div>
 
-                        <div class="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
-                            <div class="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Placeholder</div>
-                                <p class="text-gray-400 text-l md:text-2xl pb-2">
+                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
+                            <div className="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Placeholder</div>
+                                <p className="text-gray-400 text-l md:text-2xl pb-2">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                                 </p>
                             
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
                             </div>
                         
 
-                        <div class="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
-                            <div class="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Something Cool and Random</div>
-                                <p class="text-gray-400 text-l md:text-2xl pb-2">
+                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
+                            <div className="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Something Cool and Random</div>
+                                <p className="text-gray-400 text-l md:text-2xl pb-2">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                                 </p>
                             
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                                <span class="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
+                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
                             </div>
             </div>       
                     
