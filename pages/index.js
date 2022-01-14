@@ -11,7 +11,7 @@ export default function Home() {
       <Head>
         <title>Danny Doan</title>
         <meta name="author" content="Danny Doancdcdgit addgi-" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://avatars.githubusercontent.com/u/92613890?s=400&u=e0047c360a4ec70d3e487df52452decafbce4351&v=4" />
       </Head>
 
       <body className="bg-black flex flex-col min-h-screen">

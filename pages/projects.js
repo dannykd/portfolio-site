@@ -7,7 +7,7 @@ function Projects() {
       <Head>
         <title>Danny Doan</title>
         <meta name="author" content="Danny Doancdcdgit addgi-" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://avatars.githubusercontent.com/u/92613890?s=400&u=e0047c360a4ec70d3e487df52452decafbce4351&v=4" />
       </Head>
 
       <body className="bg-black flex flex-col min-h-screen">
@@ -21,7 +21,7 @@ function Projects() {
           </div>
           <div clasName="flex flex-col">
             <div className="flex mt-8 md:mt-16">
-                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12 pt-10">
+                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12 pt-8">
                             <div className="font-bold text-xl md:text-3xl mb-2 text-white rounded-lg">Study Session Manager</div>
                                 <p className="text-gray-400 text-l md:text-2xl pb-2">
                                  A full-stack web application that allows users to start/stop timed study sessions. Users can create an account and log their study sessions.
