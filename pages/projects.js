@@ -22,38 +22,36 @@ function Projects() {
           <div clasName="flex flex-col">
             <div className="flex mt-8 md:mt-16">
 
-                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12 pt-8">
-                            <div className="font-bold text-xl md:text-3xl mb-1 text-white rounded-lg">Study Session Manager</div>
-                                <a href="https://skolr.herokuapp.com/" className="hover:font-semibold text-sky-400 text-m md:text-2xl pb-2">
-                                https://skolr.herokuapp.com/➚ 
-                                </a>
-                                <p className="text-gray-400 text-l md:text-2xl pb-2">
-                                 A full-stack web application that allows users to start/stop timed study sessions. Users can create an account and log their study sessions.
-                                </p>
-                            
-                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#python</span>
-                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#django</span>
-                               
-                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#javascript</span>
-                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#html/css</span>
-                            </div>
-                        </div>
+              <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-28 lg:ml-48 mb-8 md:mb-12 pt-8">
+                  <div className="font-bold text-xl md:text-3xl mb-1 text-white rounded-lg">Study Session Manager</div>
+                      <a href="https://skolr.herokuapp.com/" className="hover:font-semibold text-sky-400 text-m md:text-2xl pb-2">
+                      https://skolr.herokuapp.com/➚ 
+                      </a>
+                      <p className="text-gray-400 text-l md:text-2xl pb-2">
+                        A full-stack web application that allows users to start/stop timed study sessions. Users can create an account and log their study sessions.
+                      </p>
+                  
+                      <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#python</span>
+                      <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#django</span>
+                      <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#javascript</span>
+                      <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#html/css</span>
+                  </div>
+              </div>
 
-                        <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-48 mb-8 md:mb-12">
-                            <div className="font-bold text-xl md:text-3xl mb-1 text-white rounded-lg">Placeholder</div>
-                                <a href="https://skolr.herokuapp.com/" className="hover:font-semibold text-sky-400 text-m md:text-2xl pb-2">
-                                https://test.herokuapp.com/➚ 
-                                </a>
-                                <p className="text-gray-400 text-l md:text-2xl pb-2">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
-                                </p>
-                            
-                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                                <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
-                            </div>
-                        
-
+              <div className="max-w-xl rounded overflow-hidden shadow-lg ml-8 md:ml-28 lg:ml-48 mb-8 md:mb-12">
+                  <div className="font-bold text-xl md:text-3xl mb-1 text-white rounded-lg">Placeholder</div>
+                      <a href="https://skolr.herokuapp.com/" className="hover:font-semibold text-sky-400 text-m md:text-2xl pb-2">
+                      https://test.herokuapp.com/➚ 
+                      </a>
+                      <p className="text-gray-400 text-l md:text-2xl pb-2">
+                      Something that I would describe about the project.
+                      </p>
+                  
+                      <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#nextjs</span>
+                      <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#somethingelse</span>
+                      <span className="inline-block bg-gray-200 rounded-full px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#tailwind</span>
+                  </div>
+        
             </div>       
                     
 
@@ -61,7 +59,7 @@ function Projects() {
 
         </main>
         <footer>
-          <p className="text-white text-sm md:text-md text-center">-------built with nextjs + tailwind-------</p>
+          <p className="text-white text-sm md:text-md text-center">-------built with nextjs + tailwindcss-------</p>
         </footer>
       </body>
   

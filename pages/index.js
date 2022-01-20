@@ -48,7 +48,7 @@ export default function Home() {
           </div>
         </main>
         <footer>
-          <p className="text-white text-sm md:text-md text-center">-------built with nextjs + tailwind-------</p>
+          <p className="text-white text-sm md:text-md text-center">-------built with nextjs + tailwindcss-------</p>
         </footer>
       </body>
   
